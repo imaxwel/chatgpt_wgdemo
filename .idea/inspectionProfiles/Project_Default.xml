@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="3.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="51">
+            <item index="0" class="java.lang.String" itemvalue="tornado" />
+            <item index="1" class="java.lang.String" itemvalue="jieba" />
+            <item index="2" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="3" class="java.lang.String" itemvalue="baidu-aip" />
+            <item index="4" class="java.lang.String" itemvalue="pydub" />
+            <item index="5" class="java.lang.String" itemvalue="funasr_onnx" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="pvrecorder" />
+            <item index="8" class="java.lang.String" itemvalue="edge-tts" />
+            <item index="9" class="java.lang.String" itemvalue="websocket-client" />
+            <item index="10" class="java.lang.String" itemvalue="nest_asyncio" />
+            <item index="11" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="12" class="java.lang.String" itemvalue="openai" />
+            <item index="13" class="java.lang.String" itemvalue="watchdog" />
+            <item index="14" class="java.lang.String" itemvalue="asyncio" />
+            <item index="15" class="java.lang.String" itemvalue="websocket" />
+            <item index="16" class="java.lang.String" itemvalue="semver" />
+            <item index="17" class="java.lang.String" itemvalue="markdown" />
+            <item index="18" class="java.lang.String" itemvalue="apscheduler" />
+            <item index="19" class="java.lang.String" itemvalue="fire" />
+            <item index="20" class="java.lang.String" itemvalue="pvporcupine" />
+            <item index="21" class="java.lang.String" itemvalue="pytz" />
+            <item index="22" class="java.lang.String" itemvalue="pypinyin" />
+            <item index="23" class="java.lang.String" itemvalue="Automat" />
+            <item index="24" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="25" class="java.lang.String" itemvalue="cffi" />
+            <item index="26" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="27" class="java.lang.String" itemvalue="kombu" />
+            <item index="28" class="java.lang.String" itemvalue="pycparser" />
+            <item index="29" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="30" class="java.lang.String" itemvalue="celery" />
+            <item index="31" class="java.lang.String" itemvalue="certifi" />
+            <item index="32" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="33" class="java.lang.String" itemvalue="txaio" />
+            <item index="34" class="java.lang.String" itemvalue="Markdown" />
+            <item index="35" class="java.lang.String" itemvalue="vine" />
+            <item index="36" class="java.lang.String" itemvalue="billiard" />
+            <item index="37" class="java.lang.String" itemvalue="hyperlink" />
+            <item index="38" class="java.lang.String" itemvalue="six" />
+            <item index="39" class="java.lang.String" itemvalue="amqp" />
+            <item index="40" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="41" class="java.lang.String" itemvalue="django-appconf" />
+            <item index="42" class="java.lang.String" itemvalue="incremental" />
+            <item index="43" class="java.lang.String" itemvalue="attrs" />
+            <item index="44" class="java.lang.String" itemvalue="hiredis" />
+            <item index="45" class="java.lang.String" itemvalue="regex" />
+            <item index="46" class="java.lang.String" itemvalue="autobahn" />
+            <item index="47" class="java.lang.String" itemvalue="aioredis" />
+            <item index="48" class="java.lang.String" itemvalue="Django" />
+            <item index="49" class="java.lang.String" itemvalue="msgpack" />
+            <item index="50" class="java.lang.String" itemvalue="Twisted" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
