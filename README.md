@@ -160,3 +160,4 @@ Please note that,
 3. Additionally, as a result of **OpenAI's restrictions**, this particular example cannot be supported within Mainland China.
 4. ChatGPT is a large language model that is unable to distinguish between Chinese Jian ti (简体) and Fan ti (繁體) characters. Due to the constraints of LVGL (Light and Versatile Graphics Library), this project currently only supports Jian Ti (simplified Chinese characters).
 # chatgpt_wgdemo
+# chatgpt_wgdemo
